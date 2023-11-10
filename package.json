@@ -1,0 +1,8 @@
+{
+  "name": "@nsc/monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "author": "keiko233",
+  "scripts": {},
+  "devDependencies": {}
+}
