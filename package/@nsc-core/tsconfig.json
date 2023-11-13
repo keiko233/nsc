@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./build",
+    "module": "commonjs",
+    "resolveJsonModule":true,      
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowJs": true,
+    "target": "ESNext"
+  },
+  "include": [
+    "./**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "build"
+  ],
+  "prettier": {
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": false
+  }
+}

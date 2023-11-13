@@ -1,0 +1,19 @@
+{
+  "name": "@nsc/core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "keiko233",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "js-base64": "^3.7.5"
+  }
+}
